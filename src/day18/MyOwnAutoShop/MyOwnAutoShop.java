@@ -16,16 +16,16 @@ public class MyOwnAutoShop {
 		 * 1. Create a super class called Car. The Car class has the following fields and methods. 
 		 * 
 		 * 2. Create a sub class of Car class and name it as Truck. The Truck class has the following 
-		 *	  fields and methods.
+		 *    fields and methods.
 		 *
 		 * 3. Create a subclass of Car class and name it as Ford.The Ford class has the following
-		 *	  fields and methods 
+		 *    fields and methods 
 		 *
 		 * 4. Create a subclass of Car class and name it as Sedan. The Sedan class has the following
 		 *    fields and methods. 
 		 * 
 		 * 5. Create MyOwnAutoShop class which contains the main() method. Perform the following
-		 *	  within the main() method.
+		 *    within the main() method.
 		 *
 		 * 6. Creating an instance of all the subclasses class and
 		 *    initialize all the fields with appropriate values. Using super(...) method in
